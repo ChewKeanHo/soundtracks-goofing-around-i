@@ -1,19 +1,26 @@
-# [MUSIC_TITLE_HERE] | (Holloway) Chew, Kean Ho's Soundtracks
+# Goofing Around I | (Holloway) Chew, Kean Ho's Soundtracks
 
 [![chewkeanho-soundtracks](Thumbnails/video-thumbnail.jpg)](#)
 
-[MARKETING DESCRIPTION HERE]
+Remember "Breaking Chains"? Not to divert away from the main objective which
+is to produce video background music quality soundtrack, here we are: the
+non-vocal instrumental soundtrack.
 
 ```
-#electronicmusic #soundtrack
+#electronicmusic #soundtrack #edm #trance #dance #femalevocal
 
-DO a $(stat TO/FILE) and then remove unnecessary filesystem info HERE
+  File: Audios/Goofing-Around-I.mp3
+  Size: 16562176        Blocks: 32352      IO Block: 4096   regular file
+Access: 2025-11-03 16:33:27.577113213 +0800
+Modify: 2025-11-03 16:33:14.285054763 +0800
+Change: 2025-11-03 16:33:14.285054763 +0800
+ Birth: 2025-08-25 10:32:05.342911401 +0800
 
-On Published Date: YYYY-MM-DD
-On YouTube since : YYYY-MM-DD
+On Published Date: 2025-08-25
+On YouTube since : 2025-08-30
 ```
 
-[YouTube](#)
+[YouTube](https://www.youtube.com/watch?v=4iQWs56bV8E)
 
 * [Agreed GIMP License](.internals/terms-of-services/GimpORG_License.pdf)
 * [Agreed GIMP Privacy Policy](.internals/privacy-policy/GimpORG-Privacy-Policy.pdf)
@@ -46,9 +53,9 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : [MUSIC_TITLE_HERE]
+Title  : Goofing Around I
 Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-[SKU_HERE]
+SKU    : chewkeanho-soundtracks-goofing-around-i
 License: (Holloway) Chew, Kean Ho's Proprietary License
 Procure: Coming Soon
 --------------------------------------------------------------------------------

@@ -1,19 +1,19 @@
 TITLE
-🎧 | [MUSIC TITLE HERE]
+🎧 | Goofing Around I
 
 
 
 
 DESCRIPTION
-[DESCRIPTION HERE THAT CAN BE POSTED ON SOCIAL MEDIA]
+Remember "Breaking Chains"? Not to divert away from the main objective which is to produce video background music quality soundtrack, here we are: the non-vocal instrumental soundtrack.
 
-#electronicmusic #soundtrack
+#electronicmusic #soundtrack #edm #trance #dance #femalevocal
 
 
 § COLLECTIONS
 ━━━━━━━━━━━━
-Album Playlist: https://youtube.com/playlist?list=[ALBUM_LIST_HERE]
-Genre Playlist: https://youtube.com/playlist?list=[ALBUM_LIST_HERE]
+Album Playlist: https://youtube.com/playlist?list=PLRci7HJoTcAgxDgR8V-JcWjXzQnwswfyt
+Genre Playlist: https://youtube.com/playlist?list=PLRci7HJoTcAjlFJMmnpXUO6EWpG8b5ety
 
 
 § METADATA
@@ -21,7 +21,7 @@ Genre Playlist: https://youtube.com/playlist?list=[ALBUM_LIST_HERE]
 Music made in: https://www.udio.com/
 Project by: (Holloway) Chew, Kean Ho
 Music License: (Holloway) Chew, Kean Ho's Proprietary License (https://doi.org/10.5281/zenodo.13767361)
-Repository: [REPOSITORY_HERE]
+Repository: https://github.com/ChewKeanHo/soundtracks-goofing-around-i
 
 
 § FAQ
@@ -64,4 +64,4 @@ I just see A.I. is the next step forward and I want it to augment me; not resist
 
 
 TAGS
-electronicmusic, soundtrack
+electronicmusic, soundtrack, edm, electronic dance, trance, female vocalist, party, big beat, anthemic, atmospheric, ethereal, lush, melodic, beautiful, with trance vocals and ambient break, warm, passionate, hedonistic
